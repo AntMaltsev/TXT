@@ -1,0 +1,4 @@
+Full name "Anton Maltsev"
+Age "34"
+Pets "There is one dog"
+Salary "1000000"
