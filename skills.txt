@@ -1,0 +1,10 @@
+1.  "Testing theory",
+2.  "Linux terminal",
+3.  "Git",
+4.  "GitHub",
+5.  "Client-server architecture",
+6.  "SQL",
+7.  "Sniffers Charles and Fiddler",
+8.  "Android Studio",
+9.  "Dev Tools",
+10. "Jmeter"
